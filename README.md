@@ -32,7 +32,7 @@ I am currently working as a **Design Engineer** at a company specializing in ind
 
 - **FEM Structural Analysis**: Performing advanced analyses using the Finite Element Method (FEM) to verify the structural integrity, safety and reliability of the designs.
 
-# 📫 Contact
+## 📫 Contact
 
 📧 Email: davide.grilli@outlook.com
 
